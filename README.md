@@ -1,3 +1,4 @@
-# tcc_ufpr
+### Principais códigos utilizados no TCC "Modelagem da produção de seiva em árvores bordo-açucareiro"
 
-### Principais códigos utilizados no TCC
+#### Equipe: Gian Santos e Elen Grochoski
+#### Orientador: Professor Dr. Cesar Taconeli
