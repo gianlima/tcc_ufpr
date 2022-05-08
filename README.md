@@ -3,4 +3,4 @@
 **Equipe**: Gian Santos e Elen Grochoski  
 **Professor orientador:** Cesar Taconeli
 
-Os códigos estão no arquivo _Script.R_
+Os códigos estão no arquivo _script.R_
