@@ -1,4 +1,6 @@
-### Principais códigos utilizados no TCC "Modelagem da produção de seiva em árvores bordo-açucareiro"
+### Principais códigos utilizados no projeto "Modelagem da produção de seiva em árvores bordo-açucareiro"
 
-#### Equipe: Gian Santos e Elen Grochoski
-#### Orientador: Professor Dr. Cesar Taconeli
+**Equipe**: Gian Santos e Elen Grochoski
+**Professor orientador:** Cesar Taconeli
+
+Os códigos estão no arquivo _Script.R_
